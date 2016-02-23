@@ -7,7 +7,9 @@ public class Runner
       System.out.println("Created by: Lukas Marinovic, Alejandro Scroggs, Vijay Rajagopal");
       System.out.println("---------------------------------------------------------------");
       System.out.println();
+      Hallway hall_1 = new Hallway();
       Lobby lob = new Lobby();
+      hall_1.roomlist.add(lob);
       System.out.println(lob);
    }
 }
