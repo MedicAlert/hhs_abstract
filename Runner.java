@@ -17,6 +17,8 @@
 //|         https://github.com/MedicAlert           |//
 //|      Lukas Marinovic                            |//
 //|         https://github.com/LukasMMarinovic      |//
+//|      Alejandro Scroggs                          |//
+//|         https://github.com/handroishonda
 //|=================================================|//
 import java.util.*;
 
