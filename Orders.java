@@ -66,7 +66,8 @@ class Packages extends CommonOrders
 class Letters extends CommonOrders
 {
    private boolean isPersonal = false;
-
+   private ArrayList<CommonOrders> masterlist = new ArrayList<CommonOrders>();
+   
    public Letters(boolean personal, String type, String ETA, String name, String address, boolean complete)
    {
       isPersonal = personal;

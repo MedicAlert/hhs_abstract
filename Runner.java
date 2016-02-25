@@ -61,6 +61,8 @@ public class Runner
       ship.getNumVehicles();
       ship.getNumOperators();
       
+      System.out.println();
+      
       System.out.println("Employee Status:");
       System.out.println("-----------------------------------");
       
