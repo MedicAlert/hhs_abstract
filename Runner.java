@@ -61,5 +61,16 @@ public class Runner
       ship.getNumVehicles();
       ship.getNumOperators();
       
+      System.out.println("Employee Status:");
+      System.out.println("-----------------------------------");
+      
+      Boy boy = new Boy();
+      Girl girl = new Girl();
+      
+      boy.getNumPeople();
+      boy.getAverageAgePeople();
+      girl.getNumPeople();
+      girl.getAverageAgePeople();
    }
+   
 }
