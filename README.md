@@ -1,5 +1,5 @@
 # hhs_abstract
-Java command-prompt game
-
+Scratch-A-Bear Shipping Co.
+>demonstrates knowledge of interfaces and abstract classes
 
 Lukas is still better than Vijay
